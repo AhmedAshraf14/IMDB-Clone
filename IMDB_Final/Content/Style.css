@@ -1,0 +1,229 @@
+
+
+/*To make the footer in the bottom of the page*/
+
+
+
+/* ---------------------------- Search bar ---------------------------- */
+
+
+/* ---------------------------- Admin and Sign In ----------------------------- */
+.sin,
+.admin {
+    margin-right: 10px;
+
+}
+
+.sin a,
+.admin a{
+    text-decoration: none;
+    color: white;
+}
+
+/* ---------------------------- Footer ----------------------------- */
+
+
+/* ---------------------------- Sign In ----------------------------- */
+.main{
+    display:block;
+    margin-top:70px;
+    min-height:1300px;
+}
+.main .title {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.email{
+    color: white;
+    font-size: 24px;
+    text-align: left;
+    padding-top: 20px;
+    margin: 20px 0;
+}
+.main .email input {
+    width: 120%;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.firstname {
+    display: block;
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 2px;
+    margin: 2px;
+}
+
+.main .firstname input {
+    width: 115%;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.lastname {
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 20px;
+    margin: 20px 0;
+}
+
+.main .lastname input{
+    width: 60%;
+    border-radius: 8px;
+}
+
+.main .haveacc{
+    display: flex;
+    padding: 20px 0;
+}
+
+.main .haveacc p{
+    padding: 0 10px;
+}
+
+.main .haveacc a{
+    color: #5dadff;
+}
+
+.main .password h5{
+    color: white;
+    font-size: 24px;
+    text-align: left;
+    padding-top: 20px;
+    margin: 20px 0;
+}
+.main .password input{
+    width: 60%;
+    border-radius: 8px;
+    
+}
+
+.main .SignInbtn{
+    padding: 50px 0;
+    text-align: left;
+}
+
+    .main .SignInbtn button {
+        padding: 8px 8px 8px 8px;
+        width: 120%;
+        border-radius: 8px;
+        font-size: 15px;
+        font-weight: bold;
+        border: none;
+        background-color: #fecd00;
+    }
+
+.main .adminSn button{
+    width: 365px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    background-color: #fecd00;
+}
+
+.main p{
+    color: #8a8a8a;
+    text-align: left;
+    margin: 0;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.main .Createbtn{
+    padding: 40px 0;
+    text-align: left;
+}
+
+    .main .Createbtn button {
+        width: 151%;
+        padding: 10px;
+        border-radius: 8px;
+        font-size: 15px;
+        font-weight: bold;
+        border: none;
+        background-color: #fecd00;
+    }
+
+
+/* ---------------------------- UserHome ----------------------------- */
+.main .left-content .big-img img {
+    opacity: 0.7;
+    position: relative;
+    /*right: 50%;*/
+    width: 700px;
+    height: 400px;
+}
+
+.main .left-content .movie-text {
+    position: relative;
+    /*right: 50%;*/
+    display: flex;
+    padding: 10px;
+}
+
+    .main .left-content .movie-text a img {
+        cursor: pointer;
+        width: 50px;
+        height: 50px;
+        padding: 0 10px;
+    }
+
+    .main .left-content .movie-text p {
+        color: #f2f2f2;
+        font-size: 17px;
+        padding: 5px 0;
+    }
+
+.main .right-content {
+    width: 100%;
+    display: flex;
+    position: relative;
+    /*right: 80%;*/
+    padding: 40px;
+}
+
+    .main .right-content .small-img img {
+        width: 110px;
+        height: 160px;
+    }
+
+    .main .right-content .movie-text {
+        display: flex;
+    }
+
+    .main .right-content .movie-play a img {
+        position: relative;
+        top: 10px;
+        cursor: pointer;
+        width: 35px;
+        height: 35px;
+        padding: 0 10px;
+    }
+
+    .main .right-content .movie-text {
+        position: relative;
+        top: 65px;
+        right: 35px;
+        display: block;
+        color: #f2f2f2;
+    }
+
+        .main .right-content .movie-text p {
+            font-weight: bold;
+            padding-bottom: 15px;
+        }
+
+        .main .right-content .movie-text a {
+            position: relative;
+            right: 15px;
+            text-decoration: none;
+            color: #8a8a8a;
+        }
+
+    
+/* ---------------------------- active's and hover's ----------------------------- */

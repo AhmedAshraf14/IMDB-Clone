@@ -1,0 +1,90 @@
+﻿@model IMDB_Final.ViewModels.UserView
+
+@{
+    ViewBag.Title = "MainPage";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+<link href = "/Content/Style.css" rel = "stylesheet"/>
+}
+
+
+    <form class="main">
+        <div class="left-content">
+            <div class="title">
+                <h2 style="font-size: 30px; position:relative; right:50%;">Recent</h2>
+            </div>
+            <div class="big-img">
+                <img src="~/imgs/396.jpg">
+            </div>
+            <div class="movie-text">
+
+                    
+
+                <a href="#"><img src="~/imgs/video.png"></a>
+                <p>Dr. Stephen Strange casts a forbidden spell that opens doorway to the multiverse.</p>
+            </div>
+        </div>
+
+        <div class="right-content">
+            <div class="small-img">
+
+                    <img src="~/imgs/Thor.jpg">
+         
+            </div>
+            <div class="movie-play">
+
+
+                <a href="@Url.Action("MovieProfile", "User", new { id = 53})"><img src="~/imgs/video.png"></a>
+ 
+
+            </div>
+            <div class="movie-text">
+                <p style="font-size:12px;">1:25</p>
+                <p>First Look at 'Thor: Love and Thunder'</p>
+                <a href="#">Watch the Official Teaser</a>
+            </div>
+
+            <div class="small-img">
+                <img src="~/imgs/avatar.jpg">
+            </div>
+            <div class="movie-play">
+                <a href="@Url.Action("MovieProfile", "User", new { id = 54})"><img src="~/imgs/video.png"></a>
+
+            </div>
+            <div class="movie-text">
+                <p style="font-size:12px;">1:25</p>
+                <p>Jake Sully lives with his newfound family</p>
+                <a href="#">Watch the Official Teaser</a>
+            </div>
+        </div>
+
+        <div class="right-content" style="position:relative; ">
+            <div class="small-img">
+                <img src="~/imgs/House.jpg">
+            </div>
+            <div class="movie-play">
+                <a href="@Url.Action("MovieProfile", "User", new { id = 55})"><img src="~/imgs/video.png"></a>
+
+            </div>
+            <div class="movie-text">
+                <p style="font-size:12px;">1:25</p>
+                <p>House of the Dragon </p>
+                <a href="#">Watch the Official Teaser</a>
+            </div>
+
+            <div class="small-img">
+                <img src="~/imgs/Batman.jpg">
+            </div>
+            <div class="movie-play">
+                <a href="@Url.Action("MovieProfile", "User", new { id = 56})"><img src="~/imgs/video.png"></a>
+
+            </div>
+            <div class="movie-text">
+                <p style="font-size:12px;">1:25</p>
+                <p>The Batman</p>
+                <a href="#">Watch the Official Teaser</a>
+            </div>
+        </div>
+
+</form>
+
+

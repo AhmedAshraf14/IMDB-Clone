@@ -1,0 +1,136 @@
+﻿@model IMDB_Final.ViewModels.UserView
+
+@{
+    ViewBag.Title = "UserProfile";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>UserProfile</h2>
+
+<form class="form">
+    <div class="reg">
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.User.FirstName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.User.FirstName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.User.LastName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.User.LastName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.User.Email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.User.Email)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.User.PhoneNumber)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.User.PhoneNumber)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.User.Address)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.User.Address)
+            </dd>
+            <dd>
+                <h6>Fav Actors</h6>
+                @foreach (var record in Model.Actorss)
+                {
+                    <ui>
+                        <li>
+                            @foreach (var record2 in Model.Actors)
+                            {
+                                if (record2.ActorId == record)
+                                {
+                                    @Html.DisplayName(record2.FirstName + " " + record2.LastName)
+                                }
+
+                            }
+
+                        </li>
+                    </ui>
+                }
+
+            </dd>
+            <dd>
+                <h6>Fav Movies</h6>
+                @foreach (var record in Model.Moviess)
+                {
+                    <ui>
+                        <li>
+                            @foreach (var record2 in Model.Movies)
+                            { 
+                                if (record2.MovieId == record)
+                                {
+                                     @Html.DisplayName(record2.MovieName + "d")
+                                }
+
+                            }
+
+                        </li>
+                    </ui>
+                }
+
+            </dd>
+            <dd>
+                <h6>Fav Directors</h6>
+                @foreach (var record in Model.Directorss)
+                {
+                    <ui>
+                        <li>
+                            @foreach (var record2 in Model.Directors)
+                            {
+                                if (record2.DirectorId == record)
+                                {
+                                    @Html.DisplayName(record2.FirstName + " " + record2.LastName)
+                                }
+
+                            }
+
+                        </li>
+                    </ui>
+                }
+
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.User.Image)
+            </dt>
+            <dd>
+                @if (Model.User.Image != null)
+                {
+                    <div class="image-size">
+                        <img src="~/imgs/ProfileUser/@Model.User.Image" alt="error" class="img-responsive image-center" width="300" height="300" />
+                    </div>
+                }
+                else
+                {
+                    <img src="~/images/profiles/no-user.png" width="50" height="50" />
+                }
+            </dd>
+
+        </dl>
+        <p>
+            @Html.ActionLink("Edit", "EditProfile", new { id = Model.User.UserId }) |
+            @Html.ActionLink("Back To Main", "MainPage", "User", new { id = Model.User.UserId }, null)
+        </p>
+    </div>
+
+</form>
+

@@ -1,0 +1,179 @@
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\IMDB_Final.dll.config
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\IMDB_Final.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\IMDB_Final.pdb
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\csc.exe
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\csc.exe.config
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\csc.rsp
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\csi.exe
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\csi.exe.config
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\csi.rsp
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.AppContext.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Collections.Immutable.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Console.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Globalization.Calendars.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.IO.Compression.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.IO.FileSystem.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Net.Http.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Net.Sockets.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.ValueTuple.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Xml.XPath.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\vbc.exe
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\vbc.exe.config
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\vbc.rsp
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\VBCSCompiler.exe
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\roslyn\VBCSCompiler.exe.config
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\Antlr3.Runtime.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\EntityFramework.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\EntityFramework.SqlServer.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\Microsoft.Web.Infrastructure.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\Newtonsoft.Json.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.Helpers.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.Mvc.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.Optimization.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.Razor.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.Deployment.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.Razor.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\WebGrease.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\EntityFramework.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\EntityFramework.SqlServer.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\Newtonsoft.Json.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.Helpers.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.Mvc.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.Razor.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.Deployment.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.Razor.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\System.Web.Optimization.xml
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\bin\Antlr3.Runtime.pdb
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.csprojAssemblyReference.cache
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.FirstDB.resources
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.csproj.GenerateResource.cache
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.csproj.CoreCompileInputs.cache
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.csproj.CopyComplete
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.dll
+E:\Ahmed\IMDb Final\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.pdb
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\IMDB_Final.dll.config
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\IMDB_Final.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\IMDB_Final.pdb
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\csc.exe
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\csc.exe.config
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\csc.rsp
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\csi.exe
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\csi.exe.config
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\csi.rsp
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Console.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Net.Http.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\vbc.exe
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\vbc.exe.config
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\vbc.rsp
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\EntityFramework.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.Helpers.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.Mvc.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.Optimization.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.Razor.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\WebGrease.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\EntityFramework.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.Helpers.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.Mvc.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.Razor.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\System.Web.Optimization.xml
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.FirstDB.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.Movieadd.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.changedatabase.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.ImagesActor.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.FirstUserEdit.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.SecondUserEdit.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.CommentSection.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.updateLocationComments.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.updateLocationComments2.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.Migrations.CommentTryPart1.resources
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.csproj.CopyComplete
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.dll
+C:\Users\Ahmed\source\repos\IMDB_Final\IMDB_Final\obj\Debug\IMDB_Final.pdb

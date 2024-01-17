@@ -1,0 +1,95 @@
+﻿@model IMDB_Final.ViewModels.UserView
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<form class="form">
+    @if (Model.notfound != null)
+    {
+
+    <div class="fontSign">
+
+        @Html.DisplayFor(m=>m.notfound)
+    </div>
+
+    }
+    <div class="test">
+        @if (Model.Movies != null)
+        {
+            foreach (var item in Model.Movies)
+            {
+
+
+        <div style="font-size:30px;">
+
+            @Html.ActionLink(item.MovieName, "MovieProfile", new { controller = "User", id = item.MovieId })
+            <p></p>
+
+
+        </div>
+        <div>
+
+            @if (item.Image != null)
+            {
+                var image = item.Image.Split(new char[] { ',' });
+                <div class="figure-img">
+                    <img src="~/imgs/ProfileMovie/@image[0]" alt="error" width="300" height="300">
+                </div>
+            }
+        </div>
+
+            }
+        }
+
+    </div>
+    <table class="test">
+        @if (Model.Actors != null)
+        {
+            foreach (var item in Model.Actors)
+            {
+
+                <tr>
+                    <td style="font-size:30px;">
+                        @Html.DisplayFor(modelItem => item.FirstName)
+                        @Html.DisplayFor(modelItem => item.LastName)
+                        @Html.ActionLink(item.FirstName +""+ item.LastName , "ActorProfile", new { controller = "User", id = item.ActorId })
+
+                    </td>
+
+                    <td>
+
+                        @if (item.Image != null)
+                        {
+                            var image = item.Image.Split(new char[] { ',' });
+                            <div class="figure-img">
+                                <img src="~/imgs/ProfileActor/@image[0]" alt="error" width="300" height="300">
+                            </div>
+                        }
+                    </td>
+                </tr>
+            }
+        }
+
+    </table>
+    <table class="test">
+        @if (Model.Directors != null)
+        {
+            foreach (var item in Model.Directors)
+            {
+
+                <tr>
+                    <td>
+                        @Html.ActionLink(item.FirstName + "" + item.LastName, "DirectorProfile", new { controller = "User", id = item.DirectorId })
+
+                    </td>
+                </tr>
+            }
+        }
+
+    </table>
+
+</form>
+
+

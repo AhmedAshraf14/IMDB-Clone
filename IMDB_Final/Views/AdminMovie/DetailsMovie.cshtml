@@ -1,0 +1,92 @@
+﻿@model IMDB_Final.ViewModels.MovieDierctors
+
+@{
+    ViewBag.Title = "DetailsMovie";
+    Layout = "~/Views/Shared/_AdminHomeLayout.cshtml";
+}
+
+<h2>DetailsMovie</h2>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Dierctor")
+        </dt>
+
+        <dd>
+            @Html.ActionLink(Model.Director.FirstName + " " + Model.Director.LastName, "DirectorDetails", new { controller = "AdminDirector", id = Model.Movie.DirectorId })
+
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Movie.MovieName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Movie.MovieName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Movie.Like)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Movie.Like)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Movie.Dislike)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Movie.Dislike)
+        </dd>
+        <dd>
+            <h6>Actors</h6>
+            @foreach (var record in Model.Actorss)
+            {
+                <ui>
+                    <li>
+                        @foreach (var record2 in Model.Actors)
+                        {
+                            if (record2.ActorId == record)
+                            {
+                                @Html.ActionLink(record2.FirstName + " " + record2.LastName, "DetailsActor", new { controller = "AdminActor", id = record })
+                            }
+
+                        }
+
+                    </li>
+                </ui>
+            }
+
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Movie.Image)
+        </dt>
+
+        <dd>
+            @if (Model.Movie.Image != null)
+            {
+                foreach (var image in Model.Images)
+                {
+                    <div class="figure-img">
+                        <img src="~/imgs/ProfileMovie/@image" alt="error" width="300" height="300">
+                    </div>
+                }
+                @*@Html.DisplayFor(modelItem => item.Image)*@
+
+            }
+            else
+            {
+                @*<img src="~/imgs/ProfileMovie/no-user.png" width="50" height="50">*@
+            }
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "EditMovie", new { controller = "AdminMovie", id = Model.Movie.MovieId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
